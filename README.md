@@ -1,15 +1,15 @@
 # DA623
-repo for tutorial submission for DA623 course
-
+Repo for tutorial submission for DA623 course
+ * By  - Nandini Sharma 200101122
 ## Topic - Edge detection in 2d images : comparision of different approaches
 ### Before running the tutorial file -
 Download the 4 files from the following drive link - 
 https://drive.google.com/drive/folders/1d0v4mndiG4jo08F03-mBjuLC48SZnVju?usp=sharing
 ## Files - 
-(image files)
+#### (image files)
 * pegion.jpg 
 * Lines.jpg
-(files with pretrained weights for running HED edge detection)
+#### (files with pretrained weights for running HED edge detection)
 * deploy.prototxt
 * hed_pretrained_bsds.caffemodel
 
